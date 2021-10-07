@@ -122,7 +122,7 @@ Syntax: ```echo <hash value> "file name" | shasum -a 256 -c```
 **Steps:**
 - Launch Balena Etcher
   - By locating the Balena Etcher AppImage file and double-clicking on it.
-- "Flas from file"
+- "Flash from file"
   - Select the Ubuntu .iso file source file
 - "Select target"
   - Select the MicroSD target destination
